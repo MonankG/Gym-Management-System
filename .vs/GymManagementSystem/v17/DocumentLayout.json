@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\gymmanagementsystem\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MONANK_DOCUMENTS_GYMDB.MDF/True/SqlTable/dbo.Member_signup.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\adminportal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\adminportal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|e:\\sem 6\\.net engineering\\mini project\\gymmanagementsystem\\gymmanagementsystem\\adminportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E0B171-2BB8-4B3F-B2B2-3B0407AE48E4}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\adminportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MONANK_DOCUMENTS_GYMDB.MDF/True/SqlTable/dbo.admintable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Site1.Master.cs",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\Site1.Master.cs",
+              "RelativeToolTip": "GymManagementSystem\\Site1.Master.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:03:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usersignup.aspx",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\usersignup.aspx",
+              "RelativeDocumentMoniker": "GymManagementSystem\\usersignup.aspx",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\usersignup.aspx",
+              "RelativeToolTip": "GymManagementSystem\\usersignup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T03:35:27.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usersignup.aspx.cs",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\usersignup.aspx.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\usersignup.aspx.cs",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\usersignup.aspx.cs",
+              "RelativeToolTip": "GymManagementSystem\\usersignup.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:39:18.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\Site1.Master",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Site1.Master",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\Site1.Master",
+              "RelativeToolTip": "GymManagementSystem\\Site1.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T04:33:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userlogin.aspx",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\userlogin.aspx",
+              "RelativeDocumentMoniker": "GymManagementSystem\\userlogin.aspx",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\userlogin.aspx",
+              "RelativeToolTip": "GymManagementSystem\\userlogin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T05:38:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userlogin.aspx.cs",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\userlogin.aspx.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\userlogin.aspx.cs",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\userlogin.aspx.cs",
+              "RelativeToolTip": "GymManagementSystem\\userlogin.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:40:20.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Member_signup [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MONANK_DOCUMENTS_GYMDB.MDF/True/SqlTable/dbo.Member_signup.sql",
+              "ToolTip": "dbo.Member_signup [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-05T04:34:32.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "GymManagementSystem\\adminlogin.aspx",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminlogin.aspx",
+              "RelativeToolTip": "GymManagementSystem\\adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T05:20:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminlogin.aspx.cs",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminlogin.aspx.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\adminlogin.aspx.cs",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminlogin.aspx.cs",
+              "RelativeToolTip": "GymManagementSystem\\adminlogin.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:20:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminportal.aspx",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminportal.aspx",
+              "RelativeDocumentMoniker": "GymManagementSystem\\adminportal.aspx",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminportal.aspx",
+              "RelativeToolTip": "GymManagementSystem\\adminportal.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-05T05:27:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "adminportal.aspx.cs",
+              "DocumentMoniker": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminportal.aspx.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\adminportal.aspx.cs",
+              "ToolTip": "E:\\SEM 6\\.NET Engineering\\Mini Project\\GymManagementSystem\\GymManagementSystem\\adminportal.aspx.cs",
+              "RelativeToolTip": "GymManagementSystem\\adminportal.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:35:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.admintable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MONANK_DOCUMENTS_GYMDB.MDF/True/SqlTable/dbo.admintable.sql",
+              "ToolTip": "dbo.admintable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-05T05:19:32.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
